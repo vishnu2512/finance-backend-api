@@ -92,3 +92,14 @@ The system is initialized with sample financial records for demonstration.
 
 1\. Install dependencies:
 
+npm install
+
+
+2. Start server:
+
+node server.js
+
+
+3. Access API:
+
+http://localhost:3000/records
